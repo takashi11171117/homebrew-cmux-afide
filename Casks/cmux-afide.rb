@@ -1,6 +1,6 @@
 cask "cmux-afide" do
-  version "1.0.4"
-  sha256 "8d4305923bab9282e53cd3b13232cf141f2a24934c5578f497ad512bc7d252a6"
+  version "1.0.5"
+  sha256 "448da7901507548691e2cdbe6143c3c883212fa52b764ee7da00d3f757f41d60"
 
   url "https://github.com/takashi11171117/cmux/releases/download/v#{version}/cmux-afide-macos.dmg"
   name "cmux AFIDE"
